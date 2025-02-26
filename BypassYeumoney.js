@@ -397,7 +397,7 @@
     _0x4c042c.appendChild(_0x58a168);
     const _0x94adca = document.createElement("input");
     _0x94adca.type = "password";
-    _0x94adca.placeholder = "No Key version Không cần key";
+    _0x94adca.placeholder = "No Key version nhập dấu cách";
     _0x94adca.style.width = "100%";
     _0x94adca.style.marginBottom = "10px";
     _0x94adca.style.padding = "8px";
@@ -497,7 +497,7 @@
         _0x3db371.value = "Đang xử lý...";
         const _0x2412a5 = await _0x3085ce(_0x594d65);
         if (_0x2412a5) {
-          let _0x2fd7b3 = 3;
+          let _0x2fd7b3 = 2;
           const _0x956e1e = setInterval(() => {
             _0x3db371.value = "Vui lòng chờ: " + _0x2fd7b3 + " giây";
             _0x2fd7b3--;
