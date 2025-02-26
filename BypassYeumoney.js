@@ -464,7 +464,7 @@
     _0x2c7e97.type = "checkbox";
     _0x2c7e97.id = "autoStart";
     _0x2c7e97.checked = GM_getValue("autoStart", false);
-    _0x2c7e97.disabled = true;
+    _0x2c7e97.disabled = false;
     const _0x3eb656 = document.createElement("label");
     _0x3eb656.htmlFor = "autoStart";
     _0x3eb656.textContent = "Auto Bypass (90%)";
@@ -488,10 +488,10 @@
     _0x3940b0.style.cursor = "pointer";
     _0x3940b0.style.marginRight = "5px";
     _0x3940b0.style.borderRadius = "5px";
-    _0x3940b0.disabled = true;
+    _0x3940b0.disabled = false;
     _0x3940b0.onclick = async () => {
       try {
-        _0x3940b0.disabled = true;
+        _0x3940b0.disabled = false;
         _0x3db371.readOnly = true;
         const _0x594d65 = _0x3db371.value || _0x34ffe7;
         _0x3db371.value = "Đang xử lý...";
