@@ -416,8 +416,8 @@
         _0x3940b0.disabled = false;
         _0x2c7e97.disabled = false;
       } else {
-        _0x3940b0.disabled = true;
-        _0x2c7e97.disabled = true;
+        _0x3940b0.disabled = false;
+        _0x2c7e97.disabled = false;
       }
     }
     _0x94adca.addEventListener("input", _0xe04cd);
