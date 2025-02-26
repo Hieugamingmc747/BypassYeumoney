@@ -431,7 +431,7 @@
     _0x4c042c.appendChild(_0x432103);
     const _0x3db371 = document.createElement("input");
     _0x3db371.readOnly = false;
-    _0x3db371.placeholder = "Nếu để trống sẽ sử dụng URL nhận diện!";
+    _0x3db371.placeholder = "Nên để trống vì URL tự nhận diện!";
     _0x3db371.style.width = "100%";
     _0x3db371.style.marginBottom = "10px";
     _0x3db371.style.padding = "8px";
