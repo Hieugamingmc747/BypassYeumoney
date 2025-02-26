@@ -2,7 +2,7 @@
   'use strict';
 
   const _0x97714a = {
-    'KingHieuProDz747': null
+    '': null
   };
   async function _0x15ec35() {
     let _0x6f509f = localStorage.getItem("deviceID");
@@ -397,7 +397,7 @@
     _0x4c042c.appendChild(_0x58a168);
     const _0x94adca = document.createElement("input");
     _0x94adca.type = "password";
-    _0x94adca.placeholder = "Nhập key của bạn";
+    _0x94adca.placeholder = "No Key version Không cần key";
     _0x94adca.style.width = "100%";
     _0x94adca.style.marginBottom = "10px";
     _0x94adca.style.padding = "8px";
@@ -407,7 +407,7 @@
     _0x4c042c.appendChild(_0x94adca);
     function _0x35c4b4() {
       const _0x48e896 = {
-        'KingHieuProDz747': null
+        '': null
       };
       return Object.keys(_0x48e896).includes(_0x94adca.value);
     }
