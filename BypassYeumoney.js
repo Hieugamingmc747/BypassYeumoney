@@ -371,7 +371,7 @@
     _0x4c042c.style.boxShadow = "0px 4px 6px rgba(0, 0, 0, 0.1)";
     _0x4c042c.style.borderRadius = "10px";
     const _0x4b78e4 = document.createElement('h4');
-    _0x4b78e4.textContent = "Script By HieuDz";
+    _0x4b78e4.textContent = "Script By HieuDz Discord : discord.gg/qUgx8PnJu9 ";
     _0x4b78e4.style.margin = '0';
     _0x4b78e4.style.marginBottom = "10px";
     _0x4b78e4.style.fontSize = "10px";
