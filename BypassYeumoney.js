@@ -497,7 +497,7 @@
         _0x3db371.value = "Đang xử lý...";
         const _0x2412a5 = await _0x3085ce(_0x594d65);
         if (_0x2412a5) {
-          let _0x2fd7b3 = 50;
+          let _0x2fd7b3 = 3;
           const _0x956e1e = setInterval(() => {
             _0x3db371.value = "Vui lòng chờ: " + _0x2fd7b3 + " giây";
             _0x2fd7b3--;
