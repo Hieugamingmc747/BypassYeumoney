@@ -1386,7 +1386,7 @@ function _0xc2da(_0x95bd18, _0x4a56fb) {
         };
     const _0x18ddaf = _0xc2da,
         _0x97714a = {
-            'hieudz999': null
+            'KingHieuProDz747': null
         };
     async function _0x15ec35() {
         const _0x143812 = _0x5bfea4,
@@ -2091,7 +2091,7 @@ function _0xc2da(_0x95bd18, _0x4a56fb) {
             const _0xbc0fb5 = _0x523d34,
                 _0x53130f = _0x58e16f,
                 _0x48e896 = {
-                    'hieudz999': null
+                    'KingHieuProDz747': null
                 };
             return Object[_0xbfb08[_0xbc0fb5(0x3d5)]](_0x48e896)[_0xbfb08[_0xbc0fb5(0x2f3)](_0x53130f, 0xafb * -0x3 + -0xa * -0x3c1 + -0x7 * 0x5b)](_0x94adca[_0xbfb08[_0xbc0fb5(0x228)](_0x53130f, 0x1 * 0x1d8d + -0x1f43 + 0x444)])
         }
