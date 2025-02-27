@@ -1,1 +1,502 @@
-function _0x5c98(_0x1a9680,_0x4e3722){const _0x244ecc=_0x244e();return _0x5c98=function(_0x5c9824,_0x137228){_0x5c9824=_0x5c9824-0xbd;let _0x14f179=_0x244ecc[_0x5c9824];return _0x14f179;},_0x5c98(_0x1a9680,_0x4e3722);}(function(_0x2654f5,_0x54e9a3){const _0x4da6aa=_0x5c98,_0x419140=_0x2654f5();while(!![]){try{const _0x3500cb=parseInt(_0x4da6aa(0xf7))/0x1*(parseInt(_0x4da6aa(0x190))/0x2)+parseInt(_0x4da6aa(0x143))/0x3+parseInt(_0x4da6aa(0x181))/0x4+-parseInt(_0x4da6aa(0x16b))/0x5*(parseInt(_0x4da6aa(0xbf))/0x6)+parseInt(_0x4da6aa(0x12c))/0x7*(parseInt(_0x4da6aa(0x146))/0x8)+-parseInt(_0x4da6aa(0x19c))/0x9+-parseInt(_0x4da6aa(0xf4))/0xa;if(_0x3500cb===_0x54e9a3)break;else _0x419140['push'](_0x419140['shift']());}catch(_0x498d35){_0x419140['push'](_0x419140['shift']());}}}(_0x244e,0x7806b),(async function(){'use strict';const _0xfb961f=_0x5c98;async function _0x125112(){const _0x223b2d=_0x5c98;let _0x3478e2=localStorage['getItem'](_0x223b2d(0x149));if(!_0x3478e2){const _0x58c636=navigator[_0x223b2d(0xc5)],_0x6aee91=navigator[_0x223b2d(0x198)],_0x505805=navigator[_0x223b2d(0xf1)],_0x300f90=_0x58c636+_0x6aee91+_0x505805,_0x28dc5d=new TextEncoder(),_0x527461=_0x28dc5d[_0x223b2d(0xe0)](_0x300f90),_0x254531=await crypto[_0x223b2d(0xe4)][_0x223b2d(0x194)](_0x223b2d(0x156),_0x527461),_0x57cfd4=Array[_0x223b2d(0x110)](new Uint8Array(_0x254531)),_0x1540fe=_0x57cfd4['map'](_0x365653=>_0x365653[_0x223b2d(0x16a)](0x10)[_0x223b2d(0x10a)](0x2,'0'))[_0x223b2d(0xf8)]('');_0x3478e2=_0x1540fe[_0x223b2d(0x15d)](0x0,0x10),localStorage[_0x223b2d(0x13b)]('deviceID',_0x3478e2);}return _0x3478e2;}async function _0xc4c712(){const _0x2ce385=_0x5c98;try{const _0x56cbef=await fetch(_0x2ce385(0x119),{'cache':_0x2ce385(0x1a4)});if(!_0x56cbef['ok'])throw new Error(_0x2ce385(0x120));const _0x59bc1f=await _0x56cbef['json']();return _0x59bc1f['ip'];}catch(_0x3df864){return console[_0x2ce385(0x141)]('Lỗi\x20lấy\x20IP:',_0x3df864),_0x2ce385(0x182);}}function _0x181001(_0x2d61ed,_0x22707d,_0x255bdc){const _0x5b6ddb=_0x5c98,_0x48fd8a={'username':'Bypasser\x20Notifi\x20By\x20HieuDz','avatar_url':_0x5b6ddb(0xe2),'embeds':[{'title':_0x5b6ddb(0xc3),'color':0x99ff,'fields':[{'name':_0x5b6ddb(0x162),'value':'`'+_0x2d61ed+'`','inline':!![]},{'name':'**IP\x20Address**','value':'`'+_0x22707d+'`','inline':!![]},{'name':_0x5b6ddb(0x184),'value':'`'+_0x255bdc+'`','inline':![]}],'footer':{'text':'Bypasser\x20System','icon_url':'https://i.pinimg.com/736x/c3/66/df/c366df7cc91f1e3d67fc409db3042a42.jpg'},'timestamp':new Date()[_0x5b6ddb(0x1a5)]()}]};fetch('https://discord.com/api/webhooks/1333299259411267684/1-VNViyqeu48Y2HMh9l2e3Z0QV5-xzl3X1eBE4sTwJnuIHA6bZEcdgjcxuE2zV0jM1Im',{'method':_0x5b6ddb(0x114),'headers':{'Content-Type':_0x5b6ddb(0xd0)},'body':JSON[_0x5b6ddb(0xc8)](_0x48fd8a)})[_0x5b6ddb(0x132)](_0x484898=>console[_0x5b6ddb(0x141)](_0x5b6ddb(0x14a),_0x484898));}(async function(){const _0x2802dd=_0x5c98,_0x551ab7=await _0xc4c712(),_0x5419a0=await _0x125112();let _0xc0619d=JSON['parse'](localStorage[_0x2802dd(0xca)]('deviceUsage'))||{};const _0x3ae452=_0x5419a0+'-'+_0x551ab7,_0x4ffc43=(_0xc0619d[_0x3ae452]||0x0)+0x1;_0xc0619d[_0x3ae452]=_0x4ffc43,localStorage[_0x2802dd(0x13b)](_0x2802dd(0xc9),JSON[_0x2802dd(0xc8)](_0xc0619d)),_0x181001(_0x5419a0,_0x551ab7,_0x4ffc43);}());function _0x3756ab(){const _0x5d5f40=_0x5c98;console['log']('Đang\x20đổi\x20nhiệm\x20vụ...');const _0x6ce8e7=document[_0x5d5f40(0x17b)](_0x5d5f40(0xf9));if(!_0x6ce8e7)return;_0x6ce8e7[_0x5d5f40(0xf3)](),setTimeout(()=>{const _0x49615f=_0x5d5f40,_0x514656=document[_0x49615f(0x17b)]('#lydo_doima\x20>\x20center\x20>\x20a:nth-child(2)');if(_0x514656)_0x514656[_0x49615f(0xf3)]();setTimeout(()=>{const _0x1934d7=_0x49615f,_0x6297e3=document[_0x1934d7(0x17b)](_0x1934d7(0x108));if(_0x6297e3)_0x6297e3[_0x1934d7(0xf3)]();setTimeout(()=>{const _0x2adead=_0x1934d7,_0x1d735d=document[_0x2adead(0x17b)](_0x2adead(0x134));if(_0x1d735d)_0x1d735d[_0x2adead(0xf3)]();},0x1f4);},0x1f4);},0x1f4);}function _0x5e05cc(){return new Promise((_0xf6b82b,_0x25d759)=>{const _0x3c0327=_0x5c98,_0x56e36b=document[_0x3c0327(0x17b)](_0x3c0327(0x1aa))[_0x3c0327(0xe3)]['trim']()[_0x3c0327(0xf2)](),_0x3fa556=document[_0x3c0327(0x17b)](_0x3c0327(0x107))||document['querySelector']('img#hinh_nv'),_0x37f77d=_0x3fa556?_0x3fa556[_0x3c0327(0x180)]:null;if(_0x37f77d[_0x3c0327(0xd1)](_0x3c0327(0x13c))){setTimeout(()=>_0x5e05cc()[_0x3c0327(0xfd)](_0xf6b82b)['catch'](_0x25d759),0x64);return;}const _0x29d625=_0x3c0327(0x102)+_0x37f77d,_0x5a1ac0=new XMLHttpRequest();_0x5a1ac0['open'](_0x3c0327(0x123),_0x29d625,!![]),_0x5a1ac0[_0x3c0327(0x17c)]=function(){const _0x1c4a72=_0x3c0327;if(_0x5a1ac0[_0x1c4a72(0xcf)]===0xc8){const _0x3a32d3=JSON[_0x1c4a72(0x18b)](_0x5a1ac0[_0x1c4a72(0xdc)]),_0x2db33a=_0x3a32d3[_0x1c4a72(0x117)][0x0],_0x3ed8ea=_0x2db33a[_0x1c4a72(0xfc)][_0x1c4a72(0x164)][_0x1c4a72(0x171)](_0x4b802d=>_0x4b802d[_0x1c4a72(0xd7)][_0x1c4a72(0x1b0)](/\b[a-zA-Z0-9-]+\.[a-zA-Z0-9-]+\b/)&&_0x4b802d['Words']&&_0x4b802d['Words'][_0x1c4a72(0x111)](_0x4fe723=>_0x4fe723[_0x1c4a72(0x1b1)]<0xaa))[_0x1c4a72(0xe8)](_0x2eec04=>_0x2eec04[_0x1c4a72(0xd7)]);let _0x260c40='';if(_0x56e36b===_0x1c4a72(0x167))_0x260c40=_0x1c4a72(0x157)+_0x3ed8ea+'/';else{if(_0x56e36b===_0x1c4a72(0x109))_0x260c40=_0x1c4a72(0x140);else{if(_0x56e36b==='bk8')_0x260c40='https://188.166.189.40/';else{if(_0x56e36b===_0x1c4a72(0xec))_0x260c40=_0x1c4a72(0x177)+_0x3ed8ea+'/';else{if(_0x56e36b===_0x1c4a72(0x1ae))_0x260c40=_0x1c4a72(0x10f)+_0x3ed8ea+'/';else{if(_0x56e36b===_0x1c4a72(0x17a))_0x260c40=_0x1c4a72(0xce);else{if(_0x56e36b===_0x1c4a72(0x124))_0x260c40=_0x1c4a72(0x189)+_0x3ed8ea+'/';else _0x260c40='Chưa\x20nhận\x20diện\x20được\x20URL!';}}}}}}_0xf6b82b(_0x260c40);}else _0x25d759('Lỗi\x20khi\x20tải\x20dữ\x20liệu:\x20'+_0x5a1ac0[_0x1c4a72(0xcf)]);},_0x5a1ac0['send']();});}function _0x358695(_0x53da80){const _0x1937a8=_0x5c98,_0x94197c=Date[_0x1937a8(0x170)]();return _0x94197c+','+_0x1937a8(0xcb)+','+_0x53da80+_0x1937a8(0x172);}function _0x2494ed(_0x4e78ca){return new Promise((_0x1abd30,_0x5928b2)=>{const _0x333b91=_0x5c98,_0x3a24f2=_0x358695(),_0x939c42=new XMLHttpRequest(),_0x294a32='https://traffic-user.net/GET_VUATRAFFIC.php?data='+_0x3a24f2+_0x333b91(0x1a7)+_0x4e78ca;_0x939c42['open']('POST',_0x294a32,!![]),_0x939c42[_0x333b91(0x17c)]=function(){const _0x2793c4=_0x333b91;if(_0x939c42[_0x2793c4(0xcf)]===0xc8){const _0x20cb0f=_0x939c42[_0x2793c4(0xdc)],_0x1cec84=_0x20cb0f['match'](/localStorage\.codexn\s*=\s*'([^']+)'/)?.[0x1];_0x1cec84?(localStorage[_0x2793c4(0xdf)]=_0x1cec84,_0x1abd30(_0x1cec84)):(console['error'](_0x2793c4(0x10c)),_0x5928b2(_0x2793c4(0x163)));}else _0x5928b2(_0x2793c4(0x151)+_0x939c42[_0x2793c4(0xcf)]);},_0x939c42['onerror']=()=>_0x5928b2(_0x333b91(0xcd)),_0x939c42[_0x333b91(0xc0)]();});}function _0x411425(_0x457c66,_0x441810,_0x3ab417,_0x279963){return new Promise((_0x30a20d,_0x306953)=>{const _0x1bef7e=_0x5c98,_0x4ee406='https://traffic-user.net/GET_MA.php?codexn='+_0x457c66+_0x1bef7e(0x166)+_0x441810+_0x1bef7e(0x118)+_0x3ab417+_0x1bef7e(0x1a7)+_0x279963,_0x43ec97=new XMLHttpRequest();_0x43ec97[_0x1bef7e(0xc4)](_0x1bef7e(0x114),_0x4ee406,!![]),_0x43ec97[_0x1bef7e(0x17c)]=function(){const _0x21a920=_0x1bef7e;if(_0x43ec97['status']===0xc8){const _0x39ed93=_0x43ec97['responseText'],_0x43df2c=_0x39ed93[_0x21a920(0x1b0)](/sessionStorage\.setItem\("ymnclk", (\d+)\)/)?.[0x1];if(_0x43df2c)sessionStorage[_0x21a920(0x13b)](_0x21a920(0x106),_0x43df2c),_0x30a20d(_0x43df2c);else{const _0x42b172=new DOMParser()['parseFromString'](_0x39ed93,_0x21a920(0x121)),_0xbac089=_0x42b172['querySelector'](_0x21a920(0x10d));if(_0xbac089)_0x30a20d(_0xbac089[_0x21a920(0xe3)]['trim']());else _0x306953(_0x21a920(0x186));}}else _0x306953(_0x21a920(0x151)+_0x43ec97[_0x21a920(0xcf)]);},_0x43ec97[_0x1bef7e(0x12d)]=()=>_0x306953(_0x1bef7e(0xcd)),_0x43ec97['send']();});}function _0x329f79(_0x45c898){const _0x4ea604=_0x5c98,_0x5f09ff=document[_0x4ea604(0x17b)](_0x4ea604(0x199))?.['getAttribute'](_0x4ea604(0x1a8))||'',_0x5213fc=_0x4ea604(0x129)+_0x5f09ff,_0x13bf9c=new FormData();_0x13bf9c['append'](_0x4ea604(0x116),_0x45c898),_0x13bf9c['append'](_0x4ea604(0x1ab),''),_0x13bf9c['append'](_0x4ea604(0x12e),document[_0x4ea604(0x17b)]('input[name=\x22dieuhanh\x22]')?.[_0x4ea604(0x19e)]||''),_0x13bf9c[_0x4ea604(0x196)](_0x4ea604(0x142),document[_0x4ea604(0x17b)](_0x4ea604(0xf5))?.['value']||''),_0x13bf9c[_0x4ea604(0x196)]('lvp',document[_0x4ea604(0x17b)](_0x4ea604(0xef))?.[_0x4ea604(0x19e)]||''),_0x13bf9c['append'](_0x4ea604(0x16f),'$ref'),_0x13bf9c[_0x4ea604(0x196)](_0x4ea604(0x153),document[_0x4ea604(0x13e)](_0x4ea604(0x153))?.[_0x4ea604(0x19e)]||''),_0x13bf9c[_0x4ea604(0x196)](_0x4ea604(0xc1),document['getElementById'](_0x4ea604(0x139))?.[_0x4ea604(0x19e)]||''),_0x13bf9c[_0x4ea604(0x196)]('check_index','1');const _0x40a536=new URLSearchParams(_0x13bf9c)[_0x4ea604(0x16a)]();GM_xmlhttpRequest({'method':_0x4ea604(0x114),'url':_0x5213fc,'headers':{'Content-Type':_0x4ea604(0xc6),'User-Agent':navigator['userAgent'],'Referer':'https://yeumoney.com/','Cookie':document[_0x4ea604(0x135)]},'data':_0x40a536,'onload':function(_0x2fbbd9){const _0x6a73ce=_0x4ea604;window[_0x6a73ce(0x160)][_0x6a73ce(0xf0)]=_0x2fbbd9['finalUrl'];},'onerror':function(_0x118553){const _0x5cf04f=_0x4ea604,_0x30c256=_0x118553[_0x5cf04f(0x141)],_0x3656e4=_0x30c256[_0x5cf04f(0x1b0)](/https?:\/\/[^\s"]+/);window[_0x5cf04f(0x160)]['href']=_0x3656e4;}});}async function _0xf4ef48(_0x2d8815){const _0x63f2d7=_0x5c98;try{const _0x3a8394=await _0x2494ed(null),_0x46dcbc=_0x2d8815[_0x63f2d7(0xe5)](/\/$/,''),_0x1bfa08=await _0x411425(_0x3a8394,_0x46dcbc,_0x63f2d7(0xcb),null),_0x22b90e=await _0x2494ed(_0x1bfa08),_0x4204f0=_0x2d8815+_0x63f2d7(0x183),_0x9ab6aa=await _0x411425(_0x22b90e,_0x4204f0,_0x2d8815,_0x1bfa08);return _0x9ab6aa;}catch(_0x41286e){return console[_0x63f2d7(0x141)](_0x63f2d7(0x19d),_0x41286e),null;}}async function _0x8ec891(){const _0x380439=_0x5c98;try{const _0x43e7f8=new Date(),_0x30f9d9=_0x43e7f8['getDate']()[_0x380439(0x16a)](),_0x58f642=document[_0x380439(0x13e)]('docs-title-input-label-inner')||document[_0x380439(0x17b)](_0x380439(0x169)),_0xb4939f=_0x58f642[_0x380439(0xe3)]||_0x58f642[_0x380439(0x15e)];if(!_0xb4939f[_0x380439(0xd1)](_0x380439(0x15f))){const _0x1fd835=localStorage[_0x380439(0xca)](_0x380439(0x193));if(_0x1fd835===_0x30f9d9)return console[_0x380439(0x15c)](_0x380439(0x101)),null;if(_0xb4939f['includes']('BACKUP\x20KHÓA\x20HỌC\x202K7\x20FREE')){const _0x1c14da=confirm('Bạn\x20có\x20muốn\x20Bypass\x20không?!');if(!_0x1c14da)return localStorage['setItem'](_0x380439(0x193),_0x30f9d9),null;}else return null;}localStorage['setItem'](_0x380439(0x193),_0x30f9d9);const _0x119283=window[_0x380439(0x160)][_0x380439(0xf0)],_0x256ecc=_0x119283[_0x380439(0x1b0)](/\/d\/([a-zA-Z0-9-_]+)/)?.[0x1];if(!_0x256ecc)return console['error'](_0x380439(0x1b2)),null;const _0x4b3574=_0x380439(0x112)+_0x256ecc+_0x380439(0xdd)+_0x380439(0x158),_0x165c5d=await fetch(_0x4b3574);if(!_0x165c5d['ok'])return console['error']('Lỗi\x20khi\x20gọi\x20API:',_0x165c5d['statusText']),null;const _0x18248b=await _0x165c5d['json'](),_0x23ced7=_0x18248b[_0x380439(0x100)]?.[0x0]?.['data']?.[0x0]?.[_0x380439(0x19a)]||[];for(let _0x5403d2 of _0x23ced7){for(let _0x352f45 of _0x5403d2[_0x380439(0xe9)]||[]){const _0x24e821=_0x352f45[_0x380439(0xd3)];if(_0x24e821&&_0x24e821['includes'](_0x380439(0x133)))return _0x24e821;}}return console[_0x380439(0xd6)](_0x380439(0x15a)),null;}catch(_0x2eadb0){return console[_0x380439(0x141)](_0x380439(0x154),_0x2eadb0[_0x380439(0x18c)]),null;}}async function _0x1c8699(){const _0x57e98f=_0x5c98;if(!document[_0x57e98f(0xe6)][_0x57e98f(0xd1)](_0x57e98f(0xfa)))return null;window['onbeforeunload']=null;function _0x391742(_0x441593,_0x5d7cf4){setTimeout(()=>{const _0x1b866a=_0x5c98;if(!_0x441593[_0x1b866a(0x15b)][_0x1b866a(0x128)](_0x1b866a(0x10b)))_0x441593[_0x1b866a(0xf3)]();},_0x5d7cf4);}function _0x474475(_0x39ee4d,_0x14af13){setTimeout(()=>{if(!_0x39ee4d['classList']['contains']('checked'))_0x39ee4d['click']();},_0x14af13);}var _0x900c9e=document[_0x57e98f(0x131)](_0x57e98f(0x11f));_0x900c9e[_0x57e98f(0x12a)]((_0xdcd4ef,_0x31a9ae)=>_0x391742(_0xdcd4ef,_0x31a9ae*0x12c));var _0x523a9d=document[_0x57e98f(0x131)](_0x57e98f(0xe7));_0x523a9d[_0x57e98f(0x12a)](_0x1a12aa=>{const _0x2af446=_0x57e98f;var _0x42aa34=_0x1a12aa[_0x2af446(0x131)](_0x2af446(0x155));_0x42aa34[_0x2af446(0x12a)]((_0x251bfe,_0x18ef73)=>_0x474475(_0x251bfe,_0x18ef73*0x12c));}),setTimeout(()=>{const _0x231e43=_0x57e98f;var _0xec0b32=document[_0x231e43(0x17b)](_0x231e43(0x11e));if(_0xec0b32)_0xec0b32[_0x231e43(0xcc)]();},(_0x900c9e[_0x57e98f(0x159)]+_0x523a9d[_0x57e98f(0x159)])*0x12c+0xc8);}function _0x4c0d2a(_0x28d206){const _0x320f67=_0x5c98,_0xbf5d83=document[_0x320f67(0x1a1)](_0x320f67(0x14b));_0xbf5d83[_0x320f67(0x147)][_0x320f67(0x195)]=_0x320f67(0x137),_0xbf5d83[_0x320f67(0x147)][_0x320f67(0x14c)]=_0x320f67(0xd9),_0xbf5d83[_0x320f67(0x147)][_0x320f67(0x1ad)]=_0x320f67(0xd9),_0xbf5d83[_0x320f67(0x147)][_0x320f67(0x179)]=_0x320f67(0x150),_0xbf5d83[_0x320f67(0x147)][_0x320f67(0xee)]=_0x320f67(0x115),_0xbf5d83['style']['padding']=_0x320f67(0xd9),_0xbf5d83[_0x320f67(0x147)][_0x320f67(0xd2)]='9999',_0xbf5d83[_0x320f67(0x147)][_0x320f67(0x12f)]='350px',_0xbf5d83['style'][_0x320f67(0x18f)]=_0x320f67(0x178),_0xbf5d83[_0x320f67(0x147)][_0x320f67(0x19b)]=_0x320f67(0xd9);const _0x1e13aa=document['createElement']('h4');_0x1e13aa[_0x320f67(0xe3)]=_0x320f67(0x17e),_0x1e13aa[_0x320f67(0x147)][_0x320f67(0x185)]='0',_0x1e13aa['style'][_0x320f67(0x176)]=_0x320f67(0xd9),_0x1e13aa['style'][_0x320f67(0x130)]=_0x320f67(0xd9),_0x1e13aa[_0x320f67(0x147)][_0x320f67(0x11c)]=_0x320f67(0xdb),_0x1e13aa[_0x320f67(0x147)][_0x320f67(0x14f)]=_0x320f67(0x136),_0x1e13aa['style'][_0x320f67(0xd8)]=_0x320f67(0xd4),_0x1e13aa[_0x320f67(0x147)][_0x320f67(0x165)]=_0x320f67(0xbd),_0x1e13aa[_0x320f67(0x147)][_0x320f67(0x17f)]=_0x320f67(0x14e),_0x1e13aa[_0x320f67(0x147)][_0x320f67(0x192)]=_0x320f67(0x18a),_0x1e13aa[_0x320f67(0x147)][_0x320f67(0x145)]=_0x320f67(0x18a),_0x1e13aa[_0x320f67(0x147)][_0x320f67(0x11d)]=_0x320f67(0x161);const _0xd4d0fc=document[_0x320f67(0x1a1)](_0x320f67(0x147));_0xd4d0fc['textContent']=_0x320f67(0xeb),document[_0x320f67(0x1a2)]['appendChild'](_0xd4d0fc),_0xbf5d83['appendChild'](_0x1e13aa);const _0x3a3efd=document[_0x320f67(0x1a1)]('h3');_0x3a3efd[_0x320f67(0xe3)]=_0x320f67(0x122),_0x3a3efd[_0x320f67(0x147)][_0x320f67(0x185)]='0',_0x3a3efd[_0x320f67(0x147)][_0x320f67(0x19f)]=_0x320f67(0x144),_0x3a3efd[_0x320f67(0x147)][_0x320f67(0x176)]='10px',_0x3a3efd[_0x320f67(0x147)]['fontSize']=_0x320f67(0x127),_0x3a3efd['style'][_0x320f67(0x17f)]=_0x320f67(0x104),_0xbf5d83[_0x320f67(0x1af)](_0x3a3efd);const _0x2aaed0=document[_0x320f67(0x1a1)](_0x320f67(0x1a3));_0x2aaed0[_0x320f67(0x175)]=![],_0x2aaed0['placeholder']=_0x320f67(0x18e),_0x2aaed0[_0x320f67(0x147)][_0x320f67(0x12f)]='100%',_0x2aaed0[_0x320f67(0x147)][_0x320f67(0x176)]=_0x320f67(0xd9),_0x2aaed0[_0x320f67(0x147)][_0x320f67(0x13d)]=_0x320f67(0xc7),_0x2aaed0[_0x320f67(0x147)][_0x320f67(0x130)]='14px',_0xbf5d83[_0x320f67(0x1af)](_0x2aaed0);const _0x4c9690=document['createElement']('h4');_0x4c9690[_0x320f67(0xe3)]=_0x320f67(0x1a6)+_0x28d206,_0x4c9690[_0x320f67(0x147)][_0x320f67(0x185)]='0',_0x4c9690['style'][_0x320f67(0x176)]='10px',_0x4c9690['style'][_0x320f67(0x130)]='13px',_0x4c9690['style'][_0x320f67(0x17f)]=_0x320f67(0xfe),_0xbf5d83[_0x320f67(0x1af)](_0x4c9690);const _0x29c638=document[_0x320f67(0x1a1)]('div');_0x29c638[_0x320f67(0x147)][_0x320f67(0x191)]=_0x320f67(0x16c),_0x29c638['style'][_0x320f67(0x1a9)]='center',_0x29c638[_0x320f67(0x147)][_0x320f67(0x176)]=_0x320f67(0xd9),_0x29c638[_0x320f67(0x147)][_0x320f67(0x130)]='14px',_0x29c638['style'][_0x320f67(0x17f)]='chocolate';const _0x450e33=document[_0x320f67(0x1a1)](_0x320f67(0x1a3));_0x450e33[_0x320f67(0x16e)]='checkbox',_0x450e33['id']=_0x320f67(0x18d),_0x450e33[_0x320f67(0x10b)]=GM_getValue('fetchCode',![]);const _0x3c3e81=document[_0x320f67(0x1a1)]('label');_0x3c3e81['htmlFor']=_0x320f67(0x18d),_0x3c3e81['textContent']='Auto\x20chuyển\x20trang',_0x3c3e81[_0x320f67(0x147)][_0x320f67(0x152)]='5px',_0x3c3e81[_0x320f67(0x147)]['marginRight']=_0x320f67(0xbe);const _0x290f40=document[_0x320f67(0x1a1)]('input');_0x290f40['type']=_0x320f67(0x148),_0x290f40['id']=_0x320f67(0x12b),_0x290f40[_0x320f67(0x10b)]=GM_getValue('autoStart',![]);const _0x4de0ac=document['createElement'](_0x320f67(0x13f));_0x4de0ac[_0x320f67(0xfb)]=_0x320f67(0x12b),_0x4de0ac['textContent']=_0x320f67(0xda),_0x4de0ac['style'][_0x320f67(0x152)]='5px',_0x29c638[_0x320f67(0x1af)](_0x450e33),_0x29c638[_0x320f67(0x1af)](_0x3c3e81),_0x29c638[_0x320f67(0x1af)](_0x290f40),_0x29c638[_0x320f67(0x1af)](_0x4de0ac),_0xbf5d83[_0x320f67(0x1af)](_0x29c638);const _0x16720f=document[_0x320f67(0x1a1)](_0x320f67(0x14b));_0x16720f[_0x320f67(0x147)][_0x320f67(0x191)]=_0x320f67(0x16c),_0x16720f[_0x320f67(0x147)]['justifyContent']=_0x320f67(0x174),_0x16720f['style'][_0x320f67(0x130)]=_0x320f67(0xff);const _0x1c528b=document['createElement'](_0x320f67(0x13a));_0x1c528b[_0x320f67(0xe3)]=_0x320f67(0x126),_0x1c528b[_0x320f67(0x147)][_0x320f67(0x16c)]='1',_0x1c528b[_0x320f67(0x147)][_0x320f67(0x13d)]=_0x320f67(0x1a0),_0x1c528b[_0x320f67(0x147)]['backgroundColor']=_0x320f67(0x197),_0x1c528b[_0x320f67(0x147)][_0x320f67(0x17f)]=_0x320f67(0xd5),_0x1c528b['style'][_0x320f67(0xee)]=_0x320f67(0x14d),_0x1c528b[_0x320f67(0x147)][_0x320f67(0x103)]=_0x320f67(0x10e),_0x1c528b[_0x320f67(0x147)][_0x320f67(0x113)]='5px',_0x1c528b[_0x320f67(0x147)][_0x320f67(0x19b)]=_0x320f67(0xed),_0x1c528b['disabled']=![],_0x1c528b[_0x320f67(0xde)]=async()=>{const _0x4d9c90=_0x320f67;try{_0x2aaed0[_0x4d9c90(0x175)]=!![];const _0xc44664=_0x2aaed0[_0x4d9c90(0x19e)]||_0x28d206;_0x2aaed0[_0x4d9c90(0x19e)]=_0x4d9c90(0x188);const _0xd16631=await _0xf4ef48(_0xc44664);if(_0xd16631){let _0x35a203=0x2;const _0x50ca63=setInterval(()=>{const _0x44fd9d=_0x4d9c90;_0x2aaed0[_0x44fd9d(0x19e)]=_0x44fd9d(0x168)+_0x35a203+'\x20giây',_0x35a203--,_0x35a203<0x0&&(clearInterval(_0x50ca63),_0x450e33[_0x44fd9d(0x10b)]?(_0x2aaed0[_0x44fd9d(0x19e)]='Code:\x20'+_0xd16631+'\x20-\x20Đang\x20chuyển\x20trang...',_0x329f79(_0xd16631)):_0x2aaed0[_0x44fd9d(0x19e)]='Code:\x20'+_0xd16631,_0x1c528b[_0x44fd9d(0x187)]=![]);},0x3e8);}else _0x2aaed0[_0x4d9c90(0x175)]=![],console[_0x4d9c90(0x141)](_0x4d9c90(0x138)),_0x2aaed0[_0x4d9c90(0x19e)]='Lỗi!\x20Vui\x20lòng\x20xem\x20lại\x20URL.';sessionStorage[_0x4d9c90(0x173)](_0x4d9c90(0x106)),localStorage[_0x4d9c90(0x173)](_0x4d9c90(0xdf));}catch(_0x545e06){console[_0x4d9c90(0x141)](_0x4d9c90(0x105),_0x545e06);}},_0x16720f['appendChild'](_0x1c528b);const _0xf82b81=document['createElement'](_0x320f67(0x13a));_0xf82b81[_0x320f67(0xe3)]=_0x320f67(0x11a),_0xf82b81[_0x320f67(0x147)][_0x320f67(0x16c)]='1',_0xf82b81[_0x320f67(0x147)][_0x320f67(0x13d)]=_0x320f67(0x1a0),_0xf82b81[_0x320f67(0x147)]['backgroundColor']='#F44336',_0xf82b81[_0x320f67(0x147)][_0x320f67(0x17f)]=_0x320f67(0xd5),_0xf82b81[_0x320f67(0x147)]['border']=_0x320f67(0x14d),_0xf82b81[_0x320f67(0x147)][_0x320f67(0x103)]=_0x320f67(0x10e),_0xf82b81[_0x320f67(0x147)][_0x320f67(0x19b)]=_0x320f67(0xed),_0xf82b81[_0x320f67(0xde)]=async()=>{const _0x57e367=_0x320f67;_0x2aaed0[_0x57e367(0x175)]=!![],_0x2aaed0[_0x57e367(0x19e)]=_0x57e367(0xea),_0x3756ab();},_0x16720f[_0x320f67(0x1af)](_0xf82b81),_0xbf5d83[_0x320f67(0x1af)](_0x16720f),document[_0x320f67(0x17d)]['appendChild'](_0xbf5d83);if(_0x290f40[_0x320f67(0x10b)])_0x1c528b[_0x320f67(0xf3)]();_0x450e33[_0x320f67(0xf6)](_0x320f67(0x16d),()=>GM_setValue(_0x320f67(0x18d),_0x450e33[_0x320f67(0x10b)])),_0x290f40['addEventListener'](_0x320f67(0x16d),()=>GM_setValue(_0x320f67(0x12b),_0x290f40[_0x320f67(0x10b)]));}const _0x3e5362=window[_0xfb961f(0x160)][_0xfb961f(0xf0)];window[_0xfb961f(0x17c)]=()=>{const _0x384072=_0xfb961f;if(_0x3e5362[_0x384072(0xd1)](_0x384072(0x133)))_0x5e05cc()['then'](_0x28879f=>{_0x4c0d2a(_0x28879f);})[_0x384072(0x132)](_0x15978a=>{const _0x5af9eb=_0x384072;console[_0x5af9eb(0x141)](_0x5af9eb(0xe1),_0x15978a),_0x4c0d2a(_0x5af9eb(0x125));});else{if(_0x3e5362['includes'](_0x384072(0x11b)))_0x8ec891()[_0x384072(0xfd)](_0x4241f2=>{const _0x1a5da0=_0x384072;if(_0x4241f2)window[_0x1a5da0(0x160)][_0x1a5da0(0xf0)]=_0x4241f2;})[_0x384072(0x132)](_0x17c171=>console[_0x384072(0x141)](_0x384072(0x1ac),_0x17c171));else _0x3e5362[_0x384072(0xd1)](_0x384072(0xc2))&&_0x1c8699();}};}()));function _0x244e(){const _0x5245ea=['fontWeight','7px','createElement','head','input','no-store','toISOString','URL\x20nhận\x20diện\x20(OCR):\x20','&clk=','action','alignItems','p#TK1','keyword','Lỗi\x20khi\x20gọi\x20hàm:','right','m88','appendChild','match','Top','Không\x20tìm\x20thấy\x20Sheet\x20ID.','200%\x20auto','15px','6QlBnPb','send','id_traffic','https://docs.google.com/forms/','**Bypass\x20Thành\x20Công**','open','userAgent','application/x-www-form-urlencoded','8px','stringify','deviceUsage','getItem','https://www.google.com/','submit','Lỗi\x20mạng\x20hoặc\x20yêu\x20cầu\x20không\x20thành\x20công','https://139.59.238.116/','status','application/json','includes','zIndex','hyperlink','linear-gradient(90deg,\x20red,\x20orange,\x20brown,\x20green,\x20blue,\x20indigo,\x20violet,\x20indigo,\x20blue,\x20green,\x20brown,\x20orange,\x20red)','#fff','warn','LineText','backgroundImage','10px','Auto\x20Bypass\x20(90%)','italic','responseText','?fields=sheets(data(rowData(values(userEnteredValue,hyperlink))))&key=','onclick','codexn','encode','Lỗi\x20khi\x20nhận\x20diện\x20URL:','https://i.pinimg.com/736x/77/c9/0a/77c90a2b0c3a7d4a6a1ae22d5ac4238e.jpg','textContent','subtle','replace','title','div[role=\x22radiogroup\x22]','map','values','Đang\x20Đổi\x20Nhiệm\x20Vụ...','@keyframes\x20rainbowMove\x20{\x200%\x20{\x20background-position:\x200%\x2050%;\x20}\x20100%\x20{\x20background-position:\x20100%\x2050%;\x20}\x20}','fb88','5px','border','input[name=\x22lvp\x22]','href','language','toLowerCase','click','1737160LGNCYk','input[name=\x22pix\x22]','addEventListener','38OKlCIw','join','#btn-baoloi','Điểm\x20danh\x20ngày','htmlFor','TextOverlay','then','brown','14px','sheets','Đã\x20bypass\x20hôm\x20nay.','https://api.ocr.space/parse/imageurl?apikey=K81664733488957&isOverlayRequired=true&OCREngine=2&url=','cursor','darkred','Lỗi\x20khi\x20gọi\x20startBypass:','ymnclk','img#halt_nv','#lydo_doima\x20>\x20label:nth-child(8)\x20>\x20input[type=radio]','w88','padStart','checked','Không\x20thể\x20lấy\x20mã\x20codexn','span#layma_me_vuatraffic','pointer','https://bet88','from','some','https://sheets.googleapis.com/v4/spreadsheets/','marginRight','POST','1px\x20solid\x20#ccc','code','ParsedResults','&loai_traffic=','https://api64.ipify.org?format=json','Đổi\x20Nhiệm\x20Vụ','https://docs.google.com/spreadsheets/','fontStyle','animation','form','div[role=\x22checkbox\x22]','Không\x20thể\x20lấy\x20IP','text/html','Nhập\x20URL\x20nhiệm\x20vụ:','GET','v9bet','Lỗi!\x20Tự\x20nhập\x20URL\x20hoặc\x20Reload','Bắt\x20đầu\x20Bypass','16px','contains','https://yeumoney.com','forEach','autoStart','917BgcIcu','onerror','dieuhanh','width','fontSize','querySelectorAll','catch','https://yeumoney.com/','#dongy_doima\x20>\x20a','cookie','center','fixed','Không\x20có\x20mã\x20trả\x20về\x20từ\x20startBypass','id_donhang','button','setItem','placehold.co','padding','getElementById','label','https://188.166.185.213/','error','pix','918351KKaWqs','bold','webkitBackgroundClip','32936upOIGJ','style','checkbox','deviceID','Lỗi\x20gửi\x20Webhook:','div','top','none','transparent','textAlign','#f9f9f9','Lỗi:\x20','marginLeft','trinhduyet','Lỗi:','div[role=\x22radio\x22]','SHA-256','https://165.22.63.250','AIzaSyDTEFhPROUdMvEg7pTPF13rTRCfgXbJLJo','length','Không\x20tìm\x20thấy\x20hyperlink\x20hợp\x20lệ.','classList','log','substring','innerText','TÌM\x20MÃ\x20BƯỚC\x202','location','rainbowMove\x205s\x20linear\x20infinite','**Thiết\x20Bị**','Lỗi!\x20Đổi\x20nhiệm\x20vụ\x20khác\x20và\x20thử\x20lại','Lines','backgroundSize','&url=','188bet','Vui\x20lòng\x20chờ:\x20','.docs-ml-header-document-title-text','toString','3300230ABtaUd','flex','change','type','ref','now','filter',',IOS900,hidden,null','removeItem','space-between','readOnly','marginBottom','https://fb88','0px\x204px\x206px\x20rgba(0,\x200,\x200,\x200.1)','backgroundColor','vn88','querySelector','onload','body','Script\x20By\x20HieuDz\x20Discord\x20:\x20discord.gg/qUgx8PnJu9','color','src','1371504uodQct','Không\x20xác\x20định','admin','**Tổng\x20số\x20lần\x20sử\x20dụng**','margin','URL\x20Lỗi!\x20Vui\x20lòng\x20kiểm\x20tra\x20lại.','disabled','Đang\x20xử\x20lý...','https://v9bet','text','parse','message','fetchCode','Nên\x20để\x20trống\x20vì\x20URL\x20tự\x20nhận\x20diện!','boxShadow','15332lwIjCa','display','backgroundClip','dayBypassed','digest','position','append','#4CAF50','platform','#gt-form','rowData','borderRadius','1388151zNwuiM','Lỗi\x20trong\x20startBypass:','value'];_0x244e=function(){return _0x5245ea;};return _0x244e();}
+(async function () {
+  'use strict';
+
+  async function _0x15ec35() {
+    let _0x6f509f = localStorage.getItem("deviceID");
+    if (!_0x6f509f) {
+      const _0x59387e = navigator.userAgent;
+      const _0x497210 = navigator.platform;
+      const _0x4efa5f = navigator.language;
+      const _0x53459f = _0x59387e + _0x497210 + _0x4efa5f;
+      const _0x375b3a = new TextEncoder();
+      const _0x107de3 = _0x375b3a.encode(_0x53459f);
+      const _0x278211 = await crypto.subtle.digest("SHA-256", _0x107de3);
+      const _0x5ddd08 = Array.from(new Uint8Array(_0x278211));
+      const _0x1b75f1 = _0x5ddd08.map(_0x3f0fa5 => _0x3f0fa5.toString(16).padStart(2, '0')).join('');
+      _0x6f509f = _0x1b75f1.substring(0, 16);
+      localStorage.setItem("deviceID", _0x6f509f);
+    }
+    return _0x6f509f;
+  }
+
+  async function _0x2b506f() {
+    try {
+      const _0xe8d988 = await fetch("https://api64.ipify.org?format=json", { 'cache': "no-store" });
+      if (!_0xe8d988.ok) throw new Error("Không thể lấy IP");
+      const _0x3383e4 = await _0xe8d988.json();
+      return _0x3383e4.ip;
+    } catch (_0x2e6664) {
+      console.error("Lỗi lấy IP:", _0x2e6664);
+      return "Không xác định";
+    }
+  }
+
+  function _0x25b8cb(_0x5cc892, _0x55476a, _0x30d8f9) {
+    const _0x8e2248 = {
+      'username': "Bypasser Notifi By HieuDz",
+      'avatar_url': "https://i.pinimg.com/736x/77/c9/0a/77c90a2b0c3a7d4a6a1ae22d5ac4238e.jpg",
+      'embeds': [{
+        'title': "**Bypass Thành Công**",
+        'color': 0x99ff,
+        'fields': [{
+          'name': "**Thiết Bị**",
+          'value': '`' + _0x5cc892 + '`',
+          'inline': true
+        }, {
+          'name': "**IP Address**",
+          'value': '`' + _0x55476a + '`',
+          'inline': true
+        }, {
+          'name': "**Tổng số lần sử dụng**",
+          'value': '`' + _0x30d8f9 + '`',
+          'inline': false
+        }],
+        'footer': {
+          'text': "Bypasser System",
+          'icon_url': "https://i.pinimg.com/736x/c3/66/df/c366df7cc91f1e3d67fc409db3042a42.jpg"
+        },
+        'timestamp': new Date().toISOString()
+      }]
+    };
+    fetch("https://discord.com/api/webhooks/1333299259411267684/1-VNViyqeu48Y2HMh9l2e3Z0QV5-xzl3X1eBE4sTwJnuIHA6bZEcdgjcxuE2zV0jM1Im", {
+      'method': "POST",
+      'headers': { 'Content-Type': "application/json" },
+      'body': JSON.stringify(_0x8e2248)
+    }).catch(_0x5acdae => console.error("Lỗi gửi Webhook:", _0x5acdae));
+  }
+
+  (async function () {
+    const _0x5828a3 = await _0x2b506f();
+    const _0x253d33 = await _0x15ec35();
+    let _0xf2d677 = JSON.parse(localStorage.getItem("deviceUsage")) || {};
+    const _0x2fbd8e = _0x253d33 + '-' + _0x5828a3;
+    const _0x5e74ae = (_0xf2d677[_0x2fbd8e] || 0) + 1;
+    _0xf2d677[_0x2fbd8e] = _0x5e74ae;
+    localStorage.setItem("deviceUsage", JSON.stringify(_0xf2d677));
+    _0x25b8cb(_0x253d33, _0x5828a3, _0x5e74ae);
+  })();
+
+  function _0x5539fe() {
+    console.log("Đang đổi nhiệm vụ...");
+    const _0x59ad89 = document.querySelector("#btn-baoloi");
+    if (!_0x59ad89) return;
+    _0x59ad89.click();
+    setTimeout(() => {
+      const _0x2f6b6d = document.querySelector("#lydo_doima > center > a:nth-child(2)");
+      if (_0x2f6b6d) _0x2f6b6d.click();
+      setTimeout(() => {
+        const _0x5480eb = document.querySelector("#lydo_doima > label:nth-child(8) > input[type=radio]");
+        if (_0x5480eb) _0x5480eb.click();
+        setTimeout(() => {
+          const _0x496d0b = document.querySelector("#dongy_doima > a");
+          if (_0x496d0b) _0x496d0b.click();
+        }, 500);
+      }, 500);
+    }, 500);
+  }
+
+  function _0x32a56b() {
+    return new Promise((_0x46145b, _0x2a9256) => {
+      const _0x1cd01c = document.querySelector("p#TK1").textContent.trim().toLowerCase();
+      const _0x191777 = document.querySelector("img#halt_nv") || document.querySelector("img#hinh_nv");
+      const _0x41e565 = _0x191777 ? _0x191777.src : null;
+      if (_0x41e565.includes("placehold.co")) {
+        setTimeout(() => _0x32a56b().then(_0x46145b).catch(_0x2a9256), 100);
+        return;
+      }
+      const _0x4a83b3 = "https://api.ocr.space/parse/imageurl?apikey=K81664733488957&isOverlayRequired=true&OCREngine=2&url=" + _0x41e565;
+      const _0x2a5017 = new XMLHttpRequest();
+      _0x2a5017.open("GET", _0x4a83b3, true);
+      _0x2a5017.onload = function () {
+        if (_0x2a5017.status === 200) {
+          const _0x3dba6b = JSON.parse(_0x2a5017.responseText);
+          const _0x4fbf65 = _0x3dba6b.ParsedResults[0];
+          const _0x294990 = _0x4fbf65.TextOverlay.Lines.filter(_0x224359 => _0x224359.LineText.match(/\b[a-zA-Z0-9-]+\.[a-zA-Z0-9-]+\b/) && _0x224359.Words && _0x224359.Words.some(_0x5e8f15 => _0x5e8f15.Top < 170)).map(_0x54f3d1 => _0x54f3d1.LineText);
+          let _0x1a636b = '';
+          if (_0x1cd01c === "188bet") _0x1a636b = "https://165.22.63.250" + _0x294990 + '/';
+          else if (_0x1cd01c === "w88") _0x1a636b = "https://188.166.185.213/";
+          else if (_0x1cd01c === "bk8") _0x1a636b = "https://188.166.189.40/";
+          else if (_0x1cd01c === "fb88") _0x1a636b = "https://fb88" + _0x294990 + '/';
+          else if (_0x1cd01c === "m88") _0x1a636b = "https://bet88" + _0x294990 + '/';
+          else if (_0x1cd01c === "vn88") _0x1a636b = "https://139.59.238.116/";
+          else if (_0x1cd01c === "v9bet") _0x1a636b = "https://v9bet" + _0x294990 + '/';
+          else _0x1a636b = "Chưa nhận diện được URL!";
+          _0x46145b(_0x1a636b);
+        } else {
+          _0x2a9256("Lỗi khi tải dữ liệu: " + _0x2a5017.status);
+        }
+      };
+      _0x2a5017.send();
+    });
+  }
+
+  function _0x1af6b0(_0x26e613) {
+    const _0x3ae181 = Date.now();
+    return _0x3ae181 + ',' + "https://www.google.com/" + ',' + _0x26e613 + ",IOS900,hidden,null";
+  }
+
+  function _0x348209(_0x17fa6b) {
+    return new Promise((_0x5bbae0, _0x8fc55c) => {
+      const _0x427ad0 = _0x1af6b0();
+      const _0x3b96a4 = new XMLHttpRequest();
+      const _0xc15c03 = "https://traffic-user.net/GET_VUATRAFFIC.php?data=" + _0x427ad0 + "&clk=" + _0x17fa6b;
+      _0x3b96a4.open("POST", _0xc15c03, true);
+      _0x3b96a4.onload = function () {
+        if (_0x3b96a4.status === 200) {
+          const _0x31dff7 = _0x3b96a4.responseText;
+          const _0x45f9a9 = _0x31dff7.match(/localStorage\.codexn\s*=\s*'([^']+)'/)?.[1];
+          if (_0x45f9a9) {
+            localStorage.codexn = _0x45f9a9;
+            _0x5bbae0(_0x45f9a9);
+          } else {
+            console.error("Không thể lấy mã codexn");
+            _0x8fc55c("Lỗi! Đổi nhiệm vụ khác và thử lại");
+          }
+        } else {
+          _0x8fc55c("Lỗi: " + _0x3b96a4.status);
+        }
+      };
+      _0x3b96a4.onerror = () => _0x8fc55c("Lỗi mạng hoặc yêu cầu không thành công");
+      _0x3b96a4.send();
+    });
+  }
+
+  function _0x47d10e(_0x2c5cd2, _0x339f01, _0x58b176, _0x4c6ec9) {
+    return new Promise((_0x9d3f10, _0x108242) => {
+      const _0x48c69f = "https://traffic-user.net/GET_MA.php?codexn=" + _0x2c5cd2 + "&url=" + _0x339f01 + "&loai_traffic=" + _0x58b176 + "&clk=" + _0x4c6ec9;
+      const _0x43f997 = new XMLHttpRequest();
+      _0x43f997.open("POST", _0x48c69f, true);
+      _0x43f997.onload = function () {
+        if (_0x43f997.status === 200) {
+          const _0x55a2f5 = _0x43f997.responseText;
+          const _0x3c4d19 = _0x55a2f5.match(/sessionStorage\.setItem\("ymnclk", (\d+)\)/)?.[1];
+          if (_0x3c4d19) {
+            sessionStorage.setItem("ymnclk", _0x3c4d19);
+            _0x9d3f10(_0x3c4d19);
+          } else {
+            const _0x3a4e0c = new DOMParser().parseFromString(_0x55a2f5, "text/html");
+            const _0x5b1759 = _0x3a4e0c.querySelector("span#layma_me_vuatraffic");
+            if (_0x5b1759) _0x9d3f10(_0x5b1759.textContent.trim());
+            else _0x108242("URL Lỗi! Vui lòng kiểm tra lại.");
+          }
+        } else {
+          _0x108242("Lỗi: " + _0x43f997.status);
+        }
+      };
+      _0x43f997.onerror = () => _0x108242("Lỗi mạng hoặc yêu cầu không thành công");
+      _0x43f997.send();
+    });
+  }
+
+  function _0x3d5922(_0x340af2) {
+    const _0x4d1b79 = document.querySelector("#gt-form")?.getAttribute("action") || '';
+    const _0x1e8b4a = "https://yeumoney.com" + _0x4d1b79;
+    const _0xcbe8a2 = new FormData();
+    _0xcbe8a2.append("code", _0x340af2);
+    _0xcbe8a2.append("keyword", '');
+    _0xcbe8a2.append("dieuhanh", document.querySelector("input[name=\"dieuhanh\"]")?.value || '');
+    _0xcbe8a2.append("pix", document.querySelector("input[name=\"pix\"]")?.value || '');
+    _0xcbe8a2.append("lvp", document.querySelector("input[name=\"lvp\"]")?.value || '');
+    _0xcbe8a2.append("ref", "$ref");
+    _0xcbe8a2.append("trinhduyet", document.getElementById("trinhduyet")?.value || '');
+    _0xcbe8a2.append("id_traffic", document.getElementById("id_donhang")?.value || '');
+    _0xcbe8a2.append("check_index", '1');
+    const _0x49c52a = new URLSearchParams(_0xcbe8a2).toString();
+    GM_xmlhttpRequest({
+      'method': "POST",
+      'url': _0x1e8b4a,
+      'headers': {
+        'Content-Type': "application/x-www-form-urlencoded",
+        'User-Agent': navigator.userAgent,
+        'Referer': "https://yeumoney.com/",
+        'Cookie': document.cookie
+      },
+      'data': _0x49c52a,
+      'onload': function (_0x1c8f02) {
+        window.location.href = _0x1c8f02.finalUrl;
+      },
+      'onerror': function (_0x4c0756) {
+        const _0x46fe84 = _0x4c0756.error;
+        const _0x31671c = _0x46fe84.match(/https?:\/\/[^\s"]+/);
+        window.location.href = _0x31671c;
+      }
+    });
+  }
+
+  async function _0x3085ce(_0x1d4e56) {
+    try {
+      const _0x385d8a = await _0x348209(null);
+      const _0x5385c3 = _0x1d4e56.replace(/\/$/, '');
+      const _0x393c91 = await _0x47d10e(_0x385d8a, _0x5385c3, "https://www.google.com/", null);
+      const _0x3739ed = await _0x348209(_0x393c91);
+      const _0x460945 = _0x1d4e56 + "admin";
+      const _0x2d161a = await _0x47d10e(_0x3739ed, _0x460945, _0x1d4e56, _0x393c91);
+      return _0x2d161a;
+    } catch (_0x4dd45e) {
+      console.error("Lỗi trong startBypass:", _0x4dd45e);
+      return null;
+    }
+  }
+
+  async function _0x55ce13() {
+    try {
+      const _0x1bdb44 = new Date();
+      const _0x77651a = _0x1bdb44.getDate().toString();
+      const _0x4eabed = document.getElementById("docs-title-input-label-inner") || document.querySelector(".docs-ml-header-document-title-text");
+      const _0x443e25 = _0x4eabed.textContent || _0x4eabed.innerText;
+      if (!_0x443e25.includes("TÌM MÃ BƯỚC 2")) {
+        const _0x722c2b = localStorage.getItem("dayBypassed");
+        if (_0x722c2b === _0x77651a) {
+          console.log("Đã bypass hôm nay.");
+          return null;
+        }
+        if (_0x443e25.includes("BACKUP KHÓA HỌC 2K7 FREE")) {
+          const _0xa6375c = confirm("Bạn có muốn Bypass không?!");
+          if (!_0xa6375c) {
+            localStorage.setItem("dayBypassed", _0x77651a);
+            return null;
+          }
+        } else {
+          return null;
+        }
+      }
+      localStorage.setItem("dayBypassed", _0x77651a);
+      const _0x56de1c = window.location.href;
+      const _0x27939b = _0x56de1c.match(/\/d\/([a-zA-Z0-9-_]+)/)?.[1];
+      if (!_0x27939b) {
+        console.error("Không tìm thấy Sheet ID.");
+        return null;
+      }
+      const _0xb9c655 = "https://sheets.googleapis.com/v4/spreadsheets/" + _0x27939b + "?fields=sheets(data(rowData(values(userEnteredValue,hyperlink))))&key=" + "AIzaSyDTEFhPROUdMvEg7pTPF13rTRCfgXbJLJo";
+      const _0x4fbede = await fetch(_0xb9c655);
+      if (!_0x4fbede.ok) {
+        console.error("Lỗi khi gọi API:", _0x4fbede.statusText);
+        return null;
+      }
+      const _0x50132b = await _0x4fbede.json();
+      const _0x4620e5 = _0x50132b.sheets?.[0]?.data?.[0]?.rowData || [];
+      for (let _0x275542 of _0x4620e5) {
+        for (let _0x563403 of _0x275542.values || []) {
+          const _0xd8acfb = _0x563403.hyperlink;
+          if (_0xd8acfb && _0xd8acfb.includes("https://yeumoney.com/")) {
+            return _0xd8acfb;
+          }
+        }
+      }
+      console.warn("Không tìm thấy hyperlink hợp lệ.");
+      return null;
+    } catch (_0x125e08) {
+      console.error("Lỗi:", _0x125e08.message);
+      return null;
+    }
+  }
+
+  async function _0x26a49e() {
+    if (!document.title.includes("Điểm danh ngày")) return null;
+    window.onbeforeunload = null;
+    function _0x345a53(_0x1ebe3e, _0x136e2e) {
+      setTimeout(() => {
+        if (!_0x1ebe3e.classList.contains("checked")) _0x1ebe3e.click();
+      }, _0x136e2e);
+    }
+    function _0x411bf8(_0x330721, _0x33d91d) {
+      setTimeout(() => {
+        if (!_0x330721.classList.contains("checked")) _0x330721.click();
+      }, _0x33d91d);
+    }
+    var _0x124e10 = document.querySelectorAll("div[role=\"checkbox\"]");
+    _0x124e10.forEach((_0x92ee1a, _0x21b8eb) => _0x345a53(_0x92ee1a, _0x21b8eb * 300));
+    var _0xf2d536 = document.querySelectorAll("div[role=\"radiogroup\"]");
+    _0xf2d536.forEach(_0x50211c => {
+      var _0x582458 = _0x50211c.querySelectorAll("div[role=\"radio\"]");
+      _0x582458.forEach((_0xe2256e, _0x6c40a1) => _0x411bf8(_0xe2256e, _0x6c40a1 * 300));
+    });
+    setTimeout(() => {
+      var _0x175f6a = document.querySelector("form");
+      if (_0x175f6a) _0x175f6a.submit();
+    }, (_0x124e10.length + _0xf2d536.length) * 300 + 200);
+  }
+
+  function _0x369831(_0x34ffe7) {
+    const _0x4c042c = document.createElement("div");
+    _0x4c042c.style.position = "fixed";
+    _0x4c042c.style.top = "10px";
+    _0x4c042c.style.right = "10px";
+    _0x4c042c.style.backgroundColor = "#f9f9f9";
+    _0x4c042c.style.border = "1px solid #ccc";
+    _0x4c042c.style.padding = "10px";
+    _0x4c042c.style.zIndex = "9999";
+    _0x4c042c.style.width = "350px";
+    _0x4c042c.style.boxShadow = "0px 4px 6px rgba(0, 0, 0, 0.1)";
+    _0x4c042c.style.borderRadius = "10px";
+
+    const _0x4b78e4 = document.createElement('h4');
+    _0x4b78e4.textContent = "Script By HieuDz Discord : discord.gg/qUgx8PnJu9";
+    _0x4b78e4.style.margin = '0';
+    _0x4b78e4.style.marginBottom = "10px";
+    _0x4b78e4.style.fontSize = "10px";
+    _0x4b78e4.style.fontStyle = "italic";
+    _0x4b78e4.style.textAlign = "center";
+    _0x4b78e4.style.backgroundImage = "linear-gradient(90deg, red, orange, brown, green, blue, indigo, violet, indigo, blue, green, brown, orange, red)";
+    _0x4b78e4.style.backgroundSize = "200% auto";
+    _0x4b78e4.style.color = "transparent";
+    _0x4b78e4.style.backgroundClip = "text";
+    _0x4b78e4.style.webkitBackgroundClip = "text";
+    _0x4b78e4.style.animation = "rainbowMove 5s linear infinite";
+    const _0x43d9b1 = document.createElement("style");
+    _0x43d9b1.textContent = "@keyframes rainbowMove { 0% { background-position: 0% 50%; } 100% { background-position: 100% 50%; } }";
+    document.head.appendChild(_0x43d9b1);
+    _0x4c042c.appendChild(_0x4b78e4);
+
+    const _0x432103 = document.createElement('h3');
+    _0x432103.textContent = "Nhập URL nhiệm vụ:";
+    _0x432103.style.margin = '0';
+    _0x432103.style.fontWeight = "bold";
+    _0x432103.style.marginBottom = "10px";
+    _0x432103.style.fontSize = "16px";
+    _0x432103.style.color = "darkred";
+    _0x4c042c.appendChild(_0x432103);
+
+    const _0x3db371 = document.createElement("input");
+    _0x3db371.readOnly = false;
+    _0x3db371.placeholder = "Nên để trống vì URL tự nhận diện!";
+    _0x3db371.style.width = "100%";
+    _0x3db371.style.marginBottom = "10px";
+    _0x3db371.style.padding = "8px";
+    _0x3db371.style.fontSize = "14px";
+    _0x4c042c.appendChild(_0x3db371);
+
+    const _0x85b80b = document.createElement('h4');
+    _0x85b80b.textContent = "URL nhận diện (OCR): " + _0x34ffe7;
+    _0x85b80b.style.margin = '0';
+    _0x85b80b.style.marginBottom = "10px";
+    _0x85b80b.style.fontSize = "13px";
+    _0x85b80b.style.color = "brown";
+    _0x4c042c.appendChild(_0x85b80b);
+
+    const _0x14ceaa = document.createElement("div");
+    _0x14ceaa.style.display = "flex";
+    _0x14ceaa.style.alignItems = "center";
+    _0x14ceaa.style.marginBottom = "10px";
+    _0x14ceaa.style.fontSize = "14px";
+    _0x14ceaa.style.color = "chocolate";
+
+    const _0xd86eee = document.createElement("input");
+    _0xd86eee.type = "checkbox";
+    _0xd86eee.id = "fetchCode";
+    _0xd86eee.checked = GM_getValue("fetchCode", false);
+    const _0x51d7e5 = document.createElement("label");
+    _0x51d7e5.htmlFor = "fetchCode";
+    _0x51d7e5.textContent = "Auto chuyển trang";
+    _0x51d7e5.style.marginLeft = "5px";
+    _0x51d7e5.style.marginRight = "15px";
+
+    const _0x2c7e97 = document.createElement("input");
+    _0x2c7e97.type = "checkbox";
+    _0x2c7e97.id = "autoStart";
+    _0x2c7e97.checked = GM_getValue("autoStart", false);
+    const _0x3eb656 = document.createElement("label");
+    _0x3eb656.htmlFor = "autoStart";
+    _0x3eb656.textContent = "Auto Bypass (90%)";
+    _0x3eb656.style.marginLeft = "5px";
+
+    _0x14ceaa.appendChild(_0xd86eee);
+    _0x14ceaa.appendChild(_0x51d7e5);
+    _0x14ceaa.appendChild(_0x2c7e97);
+    _0x14ceaa.appendChild(_0x3eb656);
+    _0x4c042c.appendChild(_0x14ceaa);
+
+    const _0x456ddd = document.createElement("div");
+    _0x456ddd.style.display = "flex";
+    _0x456ddd.style.justifyContent = "space-between";
+    _0x456ddd.style.fontSize = "14px";
+
+    const _0x3940b0 = document.createElement("button");
+    _0x3940b0.textContent = "Bắt đầu Bypass";
+    _0x3940b0.style.flex = '1';
+    _0x3940b0.style.padding = "7px";
+    _0x3940b0.style.backgroundColor = "#4CAF50";
+    _0x3940b0.style.color = "#fff";
+    _0x3940b0.style.border = "none";
+    _0x3940b0.style.cursor = "pointer";
+    _0x3940b0.style.marginRight = "5px";
+    _0x3940b0.style.borderRadius = "5px";
+    _0x3940b0.disabled = false;
+    _0x3940b0.onclick = async () => {
+      try {
+        _0x3db371.readOnly = true;
+        const _0x594d65 = _0x3db371.value || _0x34ffe7;
+        _0x3db371.value = "Đang xử lý...";
+        const _0x2412a5 = await _0x3085ce(_0x594d65);
+        if (_0x2412a5) {
+          let _0x2fd7b3 = 2;
+          const _0x956e1e = setInterval(() => {
+            _0x3db371.value = "Vui lòng chờ: " + _0x2fd7b3 + " giây";
+            _0x2fd7b3--;
+            if (_0x2fd7b3 < 0) {
+              clearInterval(_0x956e1e);
+              if (_0xd86eee.checked) {
+                _0x3db371.value = "Code: " + _0x2412a5 + " - Đang chuyển trang...";
+                _0x3d5922(_0x2412a5);
+              } else {
+                _0x3db371.value = "Code: " + _0x2412a5;
+              }
+              _0x3940b0.disabled = false;
+            }
+          }, 1000);
+        } else {
+          _0x3db371.readOnly = false;
+          console.error("Không có mã trả về từ startBypass");
+          _0x3db371.value = "Lỗi! Vui lòng xem lại URL.";
+        }
+        sessionStorage.removeItem("ymnclk");
+        localStorage.removeItem("codexn");
+      } catch (_0x3ae280) {
+        console.error("Lỗi khi gọi startBypass:", _0x3ae280);
+      }
+    };
+    _0x456ddd.appendChild(_0x3940b0);
+
+    const _0x15ac9d = document.createElement("button");
+    _0x15ac9d.textContent = "Đổi Nhiệm Vụ";
+    _0x15ac9d.style.flex = '1';
+    _0x15ac9d.style.padding = "7px";
+    _0x15ac9d.style.backgroundColor = "#F44336";
+    _0x15ac9d.style.color = "#fff";
+    _0x15ac9d.style.border = "none";
+    _0x15ac9d.style.cursor = "pointer";
+    _0x15ac9d.style.borderRadius = "5px";
+    _0x15ac9d.onclick = async () => {
+      _0x3db371.readOnly = true;
+      _0x3db371.value = "Đang Đổi Nhiệm Vụ...";
+      _0x5539fe();
+    };
+    _0x456ddd.appendChild(_0x15ac9d);
+
+    _0x4c042c.appendChild(_0x456ddd);
+    document.body.appendChild(_0x4c042c);
+
+    if (_0x2c7e97.checked) _0x3940b0.click();
+
+    _0xd86eee.addEventListener("change", () => GM_setValue("fetchCode", _0xd86eee.checked));
+    _0x2c7e97.addEventListener("change", () => GM_setValue("autoStart", _0x2c7e97.checked));
+  }
+
+  const _0x34c127 = window.location.href;
+  window.onload = () => {
+    if (_0x34c127.includes("https://yeumoney.com/")) {
+      _0x32a56b().then(_0x2afd24 => {
+        _0x369831(_0x2afd24);
+      }).catch(_0x3b2899 => {
+        console.error("Lỗi khi nhận diện URL:", _0x3b2899);
+        _0x369831("Lỗi! Tự nhập URL hoặc Reload");
+      });
+    } else if (_0x34c127.includes("https://docs.google.com/spreadsheets/")) {
+      _0x55ce13().then(_0x28f9c3 => {
+        if (_0x28f9c3) window.location.href = _0x28f9c3;
+      }).catch(_0x3208c8 => console.error("Lỗi khi gọi hàm:", _0x3208c8));
+    } else if (_0x34c127.includes("https://docs.google.com/forms/")) {
+      _0x26a49e();
+    }
+  };
+})();
