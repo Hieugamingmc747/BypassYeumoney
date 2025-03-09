@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Yeumoney Bypasser by anh hiếu đẹp zai
 // @namespace    http://tampermonkey.net/
-// @version      9.0
-// @description  The Ultimate Yeumoney Bypass BeTa  (Hieudz * Ducknovis * XGreen)
+// @version      10.0
+// @description  The Ultimate Yeumoney Bypass Chính thức (Hieudz * Ducknovis * XGreen)
 // @author       HieuDz
 // @match        *://yeumoney.com/*
 // @match        *://docs.google.com/spreadsheets/*
