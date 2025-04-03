@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yeumoney Bypasser By HieuDzPro
 // @namespace    http://tampermonkey.net/
-// @version      12.0
+// @version      13.0
 // @description  The Yeumoney Bypasser Chính thức (Hieudz * Ducknovis * XGreen)
 // @author       HieuDz Code Pro Vip, TOP 1 BYPASSER YEUMONEY
 // @match        *://yeumoney.com/*
